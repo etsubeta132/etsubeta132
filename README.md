@@ -3,15 +3,9 @@
 
 - 🔭 I’m currently working on [AfroChat](https://afrochat.app/)
 
-- 🌱 I’m currently learning **Android app development,Go**
-
-- 💬 Ask me about **Reactjs, Flutter**
-
 - 📫 How to reach me **etsubdinkawoke@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/sqs42mflw3](https://flowcv.com/resume/sqs42mflw3)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
