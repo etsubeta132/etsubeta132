@@ -20,12 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etsubeta132&show_icons=true&locale=en" alt="etsubeta132" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etsubeta132" alt="etsubeta132" /> </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=etsubeta132&theme=tokyonight&hide_border=true)
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=etsubeta132&show_icons=true&theme=tokyonight)
-
-## 🧠 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etsubeta132&layout=compact&theme=tokyonight)
